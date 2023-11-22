@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Example_1_Repo_Struct</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ex_BAL\Ex_BAL.csproj" />
+    <ProjectReference Include="..\Ex_DAL\Ex_DAL.csproj" />
+    <ProjectReference Include="..\Ex_DL\Ex_DL.csproj" />
+  </ItemGroup>
+
+</Project>

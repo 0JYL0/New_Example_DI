@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Example-1_Repo_Struct.props" />
+</Project>
