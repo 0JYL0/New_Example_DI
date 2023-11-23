@@ -51,6 +51,19 @@ namespace Ex_BAL.Implemenatation
             }
             return oList;
         }
+        public List<Project> GetProjects()
+        {
+            var oList = new List<Project>();
+            try
+            {
+               oList = _emplpoyee.GetProjects();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return oList;
+        }
 
         public void Insert(Employee emp)
         {

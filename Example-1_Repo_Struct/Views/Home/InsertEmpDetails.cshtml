@@ -1,0 +1,15 @@
+﻿@model Example_1_Repo_Struct.Models.EmployeeM
+
+@using (Html.BeginForm("InsertEmpDetails", "Home", FormMethod.Post))
+{
+    @Html.DisplayFor(x => x.EmployeeName)
+    @Html.TextBoxFor(x => x.EmployeeName)
+
+    @Html.DisplayFor(x => x.EmployeeAddress)
+    @Html.TextBoxFor(x => x.EmployeeAddress)
+
+    @Html.DisplayFor(x => x.EmployeeEmail)
+    @Html.TextBoxFor(x => x.EmployeeEmail)
+
+    <button type="submit">Submit</button>
+}

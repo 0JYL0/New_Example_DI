@@ -1,8 +1,39 @@
-﻿@{
+﻿@model Example_1_Repo_Struct.Models.EmployeeModel
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<a href="@Url.Action("InsertEmpDetails", "Home")">Insert</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Emp Id</th>
+            <th>Emp Name</th>
+            <th>Emp Email</th>
+            <th>Emp Address</th>
+            <th>Emp Password</th>
+            <th>Emp Joining date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.EmployeesDetails.Count; i++)
+        {
+            <tr>
+                <td>@Html.DisplayFor(x => x.EmployeesDetails[i].EmployeeId)</td>
+                <td>@Html.DisplayFor(x => x.EmployeesDetails[i].EmployeeName)</td>
+                <td>@Html.DisplayFor(x => x.EmployeesDetails[i].EmployeeEmail)</td>
+                <td>@Html.DisplayFor(x => x.EmployeesDetails[i].EmployeeAddress)</td>
+                <td>@Html.DisplayFor(x => x.EmployeesDetails[i].Password)</td>
+                <td>@Html.DisplayFor(x => x.EmployeesDetails[i].EmployeeJoiningDate)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<div>
+    @{
+        Html.RenderPartial("ProjectDetails", Model.ProjectDetails);
+    }
 </div>

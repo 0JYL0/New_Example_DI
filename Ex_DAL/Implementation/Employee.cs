@@ -37,5 +37,10 @@ namespace Ex_DAL.Implementation
             _dbContext.Employees.Attach(emp);
             _dbContext.SaveChanges();
         }
+
+        public List<Project> GetProjects()
+        {
+            return _dbContext.Projects.ToList();
+        }
     }
 }

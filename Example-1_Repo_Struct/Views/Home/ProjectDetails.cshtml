@@ -1,0 +1,26 @@
+﻿@model List<Example_1_Repo_Struct.Models.ProjectModel>
+
+
+<table>
+    <thead>
+        <tr>
+            <th>ProjectId</th>
+            <th>Project Name</th>
+            <th>Project Desc</th>
+            <th>Project Tech</th>
+            <th>Project Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            <tr>
+                <td>@Html.DisplayFor(x => x[i].ProjectId)</td>
+                <td>@Html.DisplayFor(x => x[i].ProjectName)</td>
+                <td>@Html.DisplayFor(x => x[i].ProjectDescription)</td>
+                <td>@Html.DisplayFor(x => x[i].ProjectTech)</td>
+                <td>@Html.DisplayFor(x => x[i].StartDate)</td>
+            </tr>
+        }
+    </tbody>
+</table>
