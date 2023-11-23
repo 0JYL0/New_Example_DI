@@ -1,0 +1,17 @@
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\bin\Debug\net6.0\Ex_BAL.deps.json
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\bin\Debug\net6.0\Ex_BAL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\bin\Debug\net6.0\Ex_BAL.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\Ex_BAL.csproj.AssemblyReference.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\Ex_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\Ex_BAL.AssemblyInfoInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\Ex_BAL.AssemblyInfo.cs
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\Ex_BAL.csproj.CoreCompileInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\Ex_BAL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\refint\Ex_BAL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\Ex_BAL.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\ref\Ex_BAL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\bin\Debug\net6.0\Ex_DAL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\bin\Debug\net6.0\Ex_DL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\bin\Debug\net6.0\Ex_DAL.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\bin\Debug\net6.0\Ex_DL.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_BAL\obj\Debug\net6.0\Ex_BAL.csproj.CopyComplete

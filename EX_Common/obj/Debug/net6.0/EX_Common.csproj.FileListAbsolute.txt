@@ -1,0 +1,12 @@
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\bin\Debug\net6.0\EX_Common.deps.json
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\bin\Debug\net6.0\EX_Common.dll
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\bin\Debug\net6.0\EX_Common.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\obj\Debug\net6.0\EX_Common.csproj.AssemblyReference.cache
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\obj\Debug\net6.0\EX_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\obj\Debug\net6.0\EX_Common.AssemblyInfoInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\obj\Debug\net6.0\EX_Common.AssemblyInfo.cs
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\obj\Debug\net6.0\EX_Common.csproj.CoreCompileInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\obj\Debug\net6.0\EX_Common.dll
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\obj\Debug\net6.0\refint\EX_Common.dll
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\obj\Debug\net6.0\EX_Common.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\EX_Common\obj\Debug\net6.0\ref\EX_Common.dll

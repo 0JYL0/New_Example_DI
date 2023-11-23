@@ -1,0 +1,14 @@
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\bin\Debug\net6.0\Ex_DL.deps.json
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\bin\Debug\net6.0\Ex_DL.runtimeconfig.json
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\bin\Debug\net6.0\Ex_DL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\bin\Debug\net6.0\Ex_DL.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\Ex_DL.csproj.AssemblyReference.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\Ex_DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\Ex_DL.AssemblyInfoInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\Ex_DL.AssemblyInfo.cs
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\Ex_DL.csproj.CoreCompileInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\Ex_DL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\refint\Ex_DL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\Ex_DL.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\Ex_DL.genruntimeconfig.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DL\obj\Debug\net6.0\ref\Ex_DL.dll

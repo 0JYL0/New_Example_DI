@@ -1,0 +1,12 @@
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\bin\Debug\net6.0\Ex_Model_[DTO].deps.json
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\bin\Debug\net6.0\Ex_Model_[DTO].dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\bin\Debug\net6.0\Ex_Model_[DTO].pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\obj\Debug\net6.0\Ex_Model_[DTO].csproj.AssemblyReference.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\obj\Debug\net6.0\Ex_Model_[DTO].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\obj\Debug\net6.0\Ex_Model_[DTO].AssemblyInfoInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\obj\Debug\net6.0\Ex_Model_[DTO].AssemblyInfo.cs
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\obj\Debug\net6.0\Ex_Model_[DTO].csproj.CoreCompileInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\obj\Debug\net6.0\Ex_Model_[DTO].dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\obj\Debug\net6.0\refint\Ex_Model_[DTO].dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\obj\Debug\net6.0\Ex_Model_[DTO].pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_Model_[DTO]\obj\Debug\net6.0\ref\Ex_Model_[DTO].dll

@@ -1,0 +1,15 @@
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\bin\Debug\net6.0\Ex_DAL.deps.json
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\bin\Debug\net6.0\Ex_DAL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\bin\Debug\net6.0\Ex_DAL.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\Ex_DAL.csproj.AssemblyReference.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\Ex_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\Ex_DAL.AssemblyInfoInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\Ex_DAL.AssemblyInfo.cs
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\Ex_DAL.csproj.CoreCompileInputs.cache
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\Ex_DAL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\refint\Ex_DAL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\Ex_DAL.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\ref\Ex_DAL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\bin\Debug\net6.0\Ex_DL.dll
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\bin\Debug\net6.0\Ex_DL.pdb
+C:\Users\jayal.malusare\Documents\Test-OP\Ex_DAL\obj\Debug\net6.0\Ex_DAL.csproj.CopyComplete
